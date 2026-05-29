@@ -1,13 +1,14 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "SoloCloudHosting",
+    "username": "Mizo's Son",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "HrisaaTn.aternos.me",
-    "port": 58679,
+    "ip": "MimaNono.aternos.me",
+    "port": 41909
+,
     "version": "1.20.1",
     "try-creative": false
   },
